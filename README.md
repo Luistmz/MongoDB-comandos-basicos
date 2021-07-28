@@ -6,7 +6,7 @@
 
 ## Verificação do serviço ##
 - sudo systemctl status mongodb
-#imagem#
+![Screenshot](img.png)
 
 ## Gerenciamento do serviço ##
 
